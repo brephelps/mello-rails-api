@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This app is similar to Trello or JIRA in that it is an easy to use project management software. 
 
-Things you may want to cover:
+Below is a screenshot of one of the project Boards. This application can be accessed at https://mello-rails-api-brephelps.herokuapp.com/
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Alt text](/assets/Images/mello.png?raw=true)
